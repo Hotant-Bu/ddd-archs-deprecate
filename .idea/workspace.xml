@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2980919-2c57-407c-a1fa-ef17f7cbcc99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-domain/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-domain/src/main/java/com/gift/domain/DomainFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-domain/src/main/java/com/gift/domain/gateway/UserInfoGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-domain/src/main/java/com/gift/domain/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-domain/src/main/java/com/gift/domain/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-domain/src/main/java/com/gift/domain/user/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/common/event/DomainEventPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/common/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/config/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/convertor/UserInfoConvertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/convertor/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/gatewayimpl/AppMetricGatewayImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/gatewayimpl/UserGatewayImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/gatewayimpl/database/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/gatewayimpl/database/dataobject/BaseDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/gatewayimpl/database/dataobject/UserInfoDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/gatewayimpl/database/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/gatewayimpl/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/gatewayimpl/rpc/AppMetricMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/gatewayimpl/rpc/dataobject/AppMetricDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/gatewayimpl/rpc/dataobject/BugMetricDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/gatewayimpl/rpc/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/repository/AppMetricRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/java/com/gift/infrastructure/repository/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-infrastructure/src/main/resources/ddd-schedule.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-starter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-starter/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-starter/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-starter/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-starter/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-starter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-starter/src/main/java/com/gift/dddstarter/ApplicationStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-starter/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ddd-starter/src/test/java/com/gift/dddstarter/DddStarterApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven-3.8.5" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2JIsXwWA9KbBx9YJIz4TxpktT4n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "aspect.path.notification.shown": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-1.8",
+    "last_opened_file_path": "E:/codes/javaPros/ddd-java/ddd-infrastructure/src/main/java/com/gift/infrastructure/gatewayimpl/rpc/dataobject",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\codes\javaPros\ddd-java\ddd-infrastructure\src\main\java\com\gift\infrastructure\gatewayimpl\rpc\dataobject" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApplicationStarter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="ddd-starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gift.dddstarter.ApplicationStarter" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2980919-2c57-407c-a1fa-ef17f7cbcc99" name="Changes" comment="" />
+      <created>1671776978733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671776978733</updated>
+      <workItem from="1671776980910" duration="9982000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
